@@ -1,0 +1,59 @@
+
+node_modules/
+# Ignore Gradle build directory
+.gradle/
+
+# Ignore Maven build directory
+target/
+
+# Ignore Eclipse IDE files
+.project
+.classpath
+.settings/
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore VS Code files
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build output directories
+build/
+
+# Ignore dependency caches
+.m2/
+.caches/
+
+# Ignore application-specific files
+.env
+*.swp
+
+# Ignore generated files
+*.jar
+*.war
+*.ear
+
+# Ignore config files
+application*.yml
+application*.yaml
+application*.properties
+
+# Ignore any database files
+*.db
+*.sqlite
+
+# Ignore other miscellaneous files
+*.class
+*.swp
+*~
